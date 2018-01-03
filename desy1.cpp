@@ -39,3 +39,9 @@ int main(){
 	x[2][2]=2;
 	x[2][3]=2;
 	x[2][4]=2;
+		// AMBIL NILAI MAX TIAP KRITERIA
+	maxc[0]=max(x[0][0],max(x[1][0],x[2][0]));
+	maxc[1]=max(x[0][1],max(x[1][1],x[2][1]));
+	maxc[2]=max(x[0][2],max(x[1][2],x[2][2]));
+	maxc[3]=max(x[0][3],max(x[1][3],x[2][3]));
+	maxc[4]=max(x[0][4],max(x[1][4],x[2][4]));
