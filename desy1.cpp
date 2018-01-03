@@ -99,3 +99,8 @@ int main(){
 	cout << "BOBOT W :"<<endl;
 	cout << w1 <<" | "<<w2<<" | "<<w3<<" | "<<w4<<" | "<<w5<<endl;
 	cout << endl;
+	cout << "MATRIKS R * W :"<<endl;
+	cout << rw[0][0] <<" | "<<rw[0][1]<<" | "<<rw[0][2]<<" | "<<rw[0][3]<<" | "<<rw[0][4]<<endl;
+	cout << rw[1][0] <<" | "<<rw[1][1]<<" | "<<rw[1][2]<<" | "<<rw[1][3]<<" | "<<rw[1][4]<<endl;
+	cout << rw[2][0] <<" | "<<rw[2][1]<<" | "<<rw[2][2]<<" | "<<rw[2][0]<<" | "<<rw[2][4]<<endl;
+	cout << endl;
