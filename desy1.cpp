@@ -104,3 +104,8 @@ int main(){
 	cout << rw[1][0] <<" | "<<rw[1][1]<<" | "<<rw[1][2]<<" | "<<rw[1][3]<<" | "<<rw[1][4]<<endl;
 	cout << rw[2][0] <<" | "<<rw[2][1]<<" | "<<rw[2][2]<<" | "<<rw[2][0]<<" | "<<rw[2][4]<<endl;
 	cout << endl;
+	cout << "HASIL AKHIR  :"<<endl;
+	cout << "Nilai A1 : "<<ha1<<endl;
+	cout << "Nilai A2 : "<<ha2<<endl;
+	cout << "Nilai A3 : "<<ha3<<endl;
+}
